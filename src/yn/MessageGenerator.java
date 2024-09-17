@@ -7,7 +7,7 @@ public class MessageGenerator {
 	}
 	
 	public static String getMessage2() {
-		return "Hello world";
+		return "Hey";
 	}
 	
 	public static String getMessage3() {
