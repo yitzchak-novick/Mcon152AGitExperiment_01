@@ -2,6 +2,6 @@ package yn;
 
 public class MessageGenerator {
 	public static String getMessage() {
-		return "Hello Universe";
+		return "Hello Galaxy";
 	}
 }
