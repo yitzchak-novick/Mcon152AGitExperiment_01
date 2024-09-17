@@ -10,7 +10,7 @@ public class MessageGenerator {
 		return "Hello world";
 	}
 	
-	public static String getMessage3() {|
-		return "Hi.";
+	public static String getMessage3() {
+		return "Greetings.";
 	}
 }
