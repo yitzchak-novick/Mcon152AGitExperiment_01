@@ -11,6 +11,6 @@ public class MessageGenerator {
 	}
 	
 	public static String getMessage3() {
-		return "Salutations.";
+		return "Whats up";
 	}
 }
