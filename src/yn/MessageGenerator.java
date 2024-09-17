@@ -6,11 +6,12 @@ public class MessageGenerator {
 		return "Hello Galaxy";
 	}
 	
-	public static String getMessage2() {
-		return "Hey";
-	}
-	
+
 	public static String getMessage3() {
 		return "Whats up";
+	}
+
+	public static int foo() {
+		return 1;
 	}
 }
