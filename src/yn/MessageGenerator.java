@@ -6,11 +6,18 @@ public class MessageGenerator {
 		return "Hello Galaxy";
 	}
 	
+	
 	public static String getMessage2() {
-		return "Hey";
+		String msg = "Good night";
+		return msg + ", bye";
 	}
 	
 	public static String getMessage3() {
 		return "Whats up";
+	}
+	
+	public static String foo() {
+		return "Java";
+	}
 	}
 }
